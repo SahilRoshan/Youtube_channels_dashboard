@@ -1,4 +1,6 @@
 # 🌟 Top YouTube Channels Dashboard 🌟
+![Screenshot 2024-12-31 223951](https://github.com/user-attachments/assets/09d420de-812f-4f9f-97aa-a8ce2ec3e3f1)
+
 
 ## 📋 Project Overview
 - This project showcases an interactive Power BI dashboard analyzing the **top YouTube channels worldwide**.
